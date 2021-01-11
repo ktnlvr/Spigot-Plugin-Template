@@ -1,0 +1,9 @@
+main: me.Kittenlover.Template.Main
+name: Template
+version: 1.0
+author: Kittenlover229
+
+commands:
+  sample:
+    description: Does nothing. Why?
+    usage: /sample
